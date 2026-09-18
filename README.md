@@ -4,14 +4,14 @@
 
 **ReelWise** is an Android digital-wellbeing app designed to help you understand and manage your short-form video scrolling habits.
 
-It automatically tracks supported **Instagram Reels, Facebook Reels, and YouTube Shorts**, lets you set daily scrolling limits, provides alerts or blocking when limits are reached, and turns your activity into useful statistics, goals, streaks, challenges, and rankings.
+It automatically tracks supported short-form content across **Instagram Reels, Facebook Reels, YouTube Shorts, TikTok, and Snapchat Spotlight**, lets you set daily scrolling limits, provides alerts or blocking when limits are reached, and turns your activity into useful statistics, goals, streaks, challenges, and rankings.
 
 > **ReelWise is built to make short-form scrolling more intentional — one reel at a time.**
 
 <br>
 
 <p align="center">
-  <a href="YOUR_PLAY_STORE_URL">
+  <a href="https://play.google.com/store/apps/details?id=com.dvexo.reelguard">
     <img src="https://img.shields.io/badge/Google%20Play-Download%20ReelWise-0A6C64?style=for-the-badge&logo=google-play&logoColor=white" alt="Download on Google Play">
   </a>
 </p>
@@ -56,11 +56,13 @@ ReelWise automatically detects supported short-form video scrolling activity and
 
 Currently supported platforms include:
 
-| Platform     | Supported Content |
-| ------------ | ----------------- |
-| 📸 Instagram | Reels             |
-| 🔵 Facebook  | Reels             |
-| ▶️ YouTube   | Shorts            |
+| Platform | Supported Content |
+|---|---|
+| 📸 Instagram | Reels |
+| 🔵 Facebook | Reels |
+| ▶️ YouTube | Shorts |
+| 🎵 TikTok | Short-form Videos |
+| 👻 Snapchat | Spotlight |
 
 Counting behavior may depend on the current version of the supported third-party application and Android.
 
@@ -392,19 +394,22 @@ Users remain in control and can enable or disable Accessibility access through A
 
 # 📲 Supported Platforms
 
-ReelWise currently focuses on:
+ReelWise currently supports counting and tracking short-form video content across:
 
 ### Instagram
-
 **Instagram Reels**
 
 ### Facebook
-
 **Facebook Reels**
 
 ### YouTube
-
 **YouTube Shorts**
+
+### TikTok
+**TikTok Short-form Videos**
+
+### Snapchat
+**Snapchat Spotlight**
 
 > Third-party platform interfaces can change over time. Counting and detection behavior may therefore vary depending on the installed application version, Android version, and platform UI changes.
 
@@ -458,13 +463,13 @@ All third-party names and trademarks belong to their respective owners.
 ReelWise is available on Google Play.
 
 <p align="center">
-  <a href="YOUR_PLAY_STORE_URL">
+  <a href="https://play.google.com/store/apps/details?id=com.dvexo.reelguard">
     <img src="https://img.shields.io/badge/Download%20on-Google%20Play-0A6C64?style=for-the-badge&logo=google-play&logoColor=white" alt="Download ReelWise">
   </a>
 </p>
 
 **Google Play:**
-`YOUR_PLAY_STORE_URL`
+`https://play.google.com/store/apps/details?id=com.dvexo.reelguard`
 
 ---
 
@@ -531,7 +536,7 @@ Feature availability may change as the application evolves.
 For information about data handling, permissions, third-party services, retention, and deletion, please refer to the official ReelWise Privacy Policy.
 
 **Privacy Policy:**
-`YOUR_PRIVACY_POLICY_URL`
+`https://abdullahalnuman-dev.github.io/reel-wise`
 
 ---
 
@@ -543,15 +548,15 @@ Feel free to get in touch.
 
 ### 📱 Contact Number
 
-**YOUR_CONTACT_NUMBER**
+**+8801754155296**
 
 ### 📧 Email
 
-**YOUR_SUPPORT_EMAIL**
+**abdullahalnumanb@gmail.com**
 
 ### 🌐 Google Play
 
-**YOUR_PLAY_STORE_URL**
+**[YOUR_PLAY_STORE_URL](https://play.google.com/store/apps/details?id=com.dvexo.reelguard)**
 
 ---
 
