@@ -536,7 +536,7 @@ Feature availability may change as the application evolves.
 For information about data handling, permissions, third-party services, retention, and deletion, please refer to the official ReelWise Privacy Policy.
 
 **Privacy Policy:**
-`https://abdullahalnuman-dev.github.io/reel-wise`
+[`https://abdullahalnuman-dev.github.io/reel-wise`](https://abdullahalnuman-dev.github.io/reel-wise)
 
 ---
 
