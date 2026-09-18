@@ -250,7 +250,7 @@ Statistics & History
 ## Home Dashboard
 
 <p align="center">
-  <img src="assets/screenshots/home.png" alt="ReelWise Home Dashboard" width="280">
+  <img src="assets/screenshots/home.png" alt="ReelWise Home Dashboard" width="200">
 </p>
 
 The home dashboard provides a quick overview of your current scrolling activity, daily progress, and important limits.
