@@ -285,7 +285,7 @@ Configure your preferred daily Reel/Short limit and choose how ReelWise should r
 
 ---
 
-## 🏆 Goals & Challenges
+<!-- ## 🏆 Goals & Challenges
 
 <p align="center">
   <img src="assets/screenshots/goals.png" alt="ReelWise Goals" width="280">
@@ -303,7 +303,7 @@ Set goals, complete challenges, and build consistent habits.
 
 Track your consistency and maintain your progress through streaks.
 
----
+--- -->
 
 ## 🌎 Leaderboards
 
