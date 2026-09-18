@@ -17,7 +17,7 @@ It automatically tracks supported short-form content across **Instagram Reels, F
 </p>
 
 <p align="center">
-  <img src="assets/images/reelwise-banner.png" alt="ReelWise Banner" width="850">
+  <img src="assets/images/reelwise-banner.png" alt="ReelWise Banner" height="500" width="1024">
 </p>
 
 ---
