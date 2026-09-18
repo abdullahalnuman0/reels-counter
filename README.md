@@ -1,60 +1,78 @@
-# 📱 ReelWise: Reels Counter
+<div align="center">
 
-### Track. Limit. Take Control.
+# 📱 ReelWise — Reels Counter
 
-**ReelWise** is an Android digital-wellbeing app designed to help you understand and manage your short-form video scrolling habits.
+### *Track. Limit. Take Control.*
 
-It automatically tracks supported short-form content across **Instagram Reels, Facebook Reels, YouTube Shorts, TikTok, and Snapchat Spotlight**, lets you set daily scrolling limits, provides alerts or blocking when limits are reached, and turns your activity into useful statistics, goals, streaks, challenges, and rankings.
+**ReelWise** is an Android digital-wellbeing app that helps you understand and manage your short-form video scrolling habits — across **Instagram Reels, Facebook Reels, YouTube Shorts, TikTok, and Snapchat Spotlight**.
 
-> **ReelWise is built to make short-form scrolling more intentional — one reel at a time.**
+Set daily limits, get alerts or blocks when you hit them, and turn raw scrolling into statistics, goals, streaks, challenges, and rankings.
+
+<a href="https://play.google.com/store/apps/details?id=com.dvexo.reelguard">
+  <img src="https://img.shields.io/badge/Google%20Play-Download%20ReelWise-0A6C64?style=for-the-badge&logo=google-play&logoColor=white" alt="Download on Google Play">
+</a>
+
+<br><br>
+
+<img src="assets/images/reelwise-banner.png" alt="ReelWise Banner" width="1024">
+
+</div>
 
 <br>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.dvexo.reelguard">
-    <img src="https://img.shields.io/badge/Google%20Play-Download%20ReelWise-0A6C64?style=for-the-badge&logo=google-play&logoColor=white" alt="Download on Google Play">
-  </a>
-</p>
+## 📑 Table of Contents
 
-<p align="center">
-  <img src="assets/images/reelwise-banner.png" alt="ReelWise Banner" height="500" width="1024">
-</p>
+- [About ReelWise](#-about-reelwise)
+- [Key Features](#-key-features)
+- [Statistics & Analytics](#-statistics--analytics)
+- [Goals, Challenges & Streaks](#-goals-challenges--streaks)
+- [Leaderboards & Rankings](#-leaderboards--rankings)
+- [Privacy & Data](#-privacy--data)
+- [How ReelWise Works](#-how-reelwise-works)
+- [Screenshots](#-app-screenshots)
+- [Technology](#️-technology)
+- [Architecture](#️-architecture)
+- [Permissions & Accessibility](#️-permissions--accessibility)
+- [Supported Platforms](#-supported-platforms)
+- [Product Design](#-product-design)
+- [Third-Party Services](#-third-party-services)
+- [Get ReelWise](#-get-reelwise)
+- [Product Vision](#️-product-vision)
+- [Future Improvements](#-future-improvements)
+- [Privacy Policy](#-privacy-policy)
+- [Contact & Support](#-contact--support)
 
 ---
 
 ## ✨ About ReelWise
 
-Short-form videos are designed to keep you scrolling.
-
-ReelWise takes a different approach to digital wellbeing by focusing not only on **how much time you spend**, but also on **how many Reels and Shorts you actually scroll through**.
+Short-form videos are engineered to keep you scrolling. ReelWise takes a different approach to digital wellbeing — instead of only measuring **how much time** you spend in an app, it measures **how many Reels and Shorts you actually scroll through**.
 
 With ReelWise, you can:
 
-* 📊 Track your Reels and Shorts
-* 🎯 Set daily scrolling limits
-* 🔔 Receive alerts when your limit is reached
-* 🛑 Block further short-form scrolling after reaching your limit
-* 📈 Analyze your scrolling statistics
-* 📅 Review your activity history
-* 📱 See platform-specific activity
-* 🏆 Maintain streaks and complete challenges
-* 🎯 Set and track personal goals
-* 🌎 Explore aggregate leaderboard rankings
-* 🔐 Use optional account and cloud features
-
-The goal is simple:
+| | |
+|---|---|
+| 📊 | Track your Reels and Shorts |
+| 🎯 | Set daily scrolling limits |
+| 🔔 | Receive alerts when your limit is reached |
+| 🛑 | Block further short-form scrolling after your limit |
+| 📈 | Analyze detailed scrolling statistics |
+| 📅 | Review your activity history |
+| 📱 | See platform-specific activity breakdowns |
+| 🏆 | Maintain streaks and complete challenges |
+| 🎯 | Set and track personal goals |
+| 🌎 | Explore aggregate leaderboard rankings |
+| 🔐 | Use optional account and cloud features |
 
 > **Know your scrolling. Set your limits. Take control.**
 
 ---
 
-# 🚀 Key Features
+## 🚀 Key Features
 
-## 📊 Reel & Shorts Counter
+### 📊 Reel & Shorts Counter
 
-ReelWise automatically detects supported short-form video scrolling activity and keeps track of your daily count.
-
-Currently supported platforms include:
+ReelWise automatically detects supported short-form scrolling activity and keeps a running daily count.
 
 | Platform | Supported Content |
 |---|---|
@@ -64,154 +82,102 @@ Currently supported platforms include:
 | 🎵 TikTok | Short-form Videos |
 | 👻 Snapchat | Spotlight |
 
-Counting behavior may depend on the current version of the supported third-party application and Android.
+> Counting behavior may vary depending on the installed version of each third-party app and your Android version.
+
+### 🎯 Daily Scrolling Limits
+
+Set your own daily Reel/Short limit — for example, **100 Reels a day** — and monitor your progress toward it in real time.
+
+### 🔔 Limit Alerts
+
+Get notified the moment you hit your configured daily limit, so you can pause and decide whether to keep scrolling.
+
+### 🛑 Scrolling Limit Blocking
+
+Want stronger control? Blocking mode restricts further supported scrolling once your daily limit is reached.
+
+| Mode | Behavior |
+|---|---|
+| **Alert Mode** | Reach limit → Get notified → Decide what to do |
+| **Block Mode** | Reach limit → Further scrolling is blocked |
 
 ---
 
-## 🎯 Daily Scrolling Limits
+## 📈 Statistics & Analytics
 
-Set your own daily Reel/Short limit.
+ReelWise turns raw scrolling activity into clear, understandable statistics:
 
-For example:
-
-> **Daily Limit: 100 Reels**
-
-ReelWise helps you monitor your progress throughout the day so you can stay aware of how much short-form content you are consuming.
-
----
-
-## 🔔 Limit Alerts
-
-Choose an awareness-focused experience.
-
-When you reach your configured daily limit, ReelWise can notify you so you know that your target has been reached.
-
-This makes it easier to pause and decide whether you actually want to continue scrolling.
-
----
-
-## 🛑 Scrolling Limit Blocking
-
-For users who want stronger control, ReelWise provides a blocking mode.
-
-When the configured daily limit is reached, supported short-form scrolling can be blocked according to the app's configured behavior.
-
-This gives you two different approaches:
-
-**Alert Mode**
-
-> Reach your limit → Get notified → Decide what to do
-
-**Block Mode**
-
-> Reach your limit → Further supported scrolling is blocked
-
----
-
-# 📈 Statistics & Analytics
-
-ReelWise transforms your scrolling activity into understandable statistics.
-
-You can use your data to understand patterns such as:
-
-* Daily Reel/Short count
-* Scrolling trends
-* Platform-specific activity
-* Historical activity
-* Goal progress
-* Limit progress
-* Long-term changes in your scrolling behavior
+- Daily Reel/Short count
+- Scrolling trends over time
+- Platform-specific activity
+- Historical activity logs
+- Goal and limit progress
+- Long-term behavior changes
 
 Instead of guessing how much you scroll, you can actually see the numbers.
 
----
+### 📅 History
 
-# 📅 History
+Reviewing past activity helps you spot:
 
-Review your previous scrolling activity and understand how your usage changes over time.
-
-Historical data can help you identify:
-
-* High-scrolling days
-* Progress toward your limits
-* Changes in daily behavior
-* Platform-specific patterns
-* Consistency over time
+- High-scrolling days
+- Progress toward your limits
+- Day-to-day behavior changes
+- Platform-specific patterns
+- Long-term consistency
 
 ---
 
-# 🏆 Goals, Challenges & Streaks
+## 🏆 Goals, Challenges & Streaks
 
-ReelWise adds a motivational layer to digital wellbeing.
+A motivational layer on top of your raw data:
 
-### 🎯 Goals
+| Feature | Description |
+|---|---|
+| 🎯 **Goals** | Create personal targets and track your progress |
+| 🔥 **Streaks** | Build consistency across multiple days |
+| 🏅 **Challenges** | Take part in challenges built around your scrolling goals |
 
-Create personal targets and monitor your progress.
-
-### 🔥 Streaks
-
-Build consistency by maintaining your desired scrolling habits over multiple days.
-
-### 🏅 Challenges
-
-Take part in challenges designed around your scrolling goals and progress.
-
-The idea isn't simply to count numbers — it's to turn those numbers into actionable habits.
+The idea isn't just to count numbers — it's to turn those numbers into actionable habits.
 
 ---
 
-# 🌎 Leaderboards & Rankings
+## 🌎 Leaderboards & Rankings
 
-ReelWise can provide aggregate ranking features where available.
+Where enabled, ReelWise offers aggregate ranking features:
 
-Depending on the enabled features, users may be able to explore rankings across supported categories such as:
+- 🌍 Global rankings
+- 🇧🇩 Country-based rankings
+- 📱 Platform-based rankings
+- 📈 Rank history
 
-* 🌍 Global rankings
-* 🇧🇩 Country-based rankings
-* 📱 Platform-based rankings
-* 📈 Rank history
-
-Leaderboard functionality uses aggregate statistics and does not require ReelWise to access your social-media account credentials.
+> Leaderboards rely on aggregate statistics only — ReelWise never needs access to your social-media account credentials.
 
 ---
 
-# 🔐 Privacy & Data
+## 🔐 Privacy & Data
 
-Privacy and data minimization are important parts of ReelWise.
+Privacy and data minimization are core design principles behind ReelWise.
 
-ReelWise uses Android's **AccessibilityService** to recognize supported scrolling activity required for its counting and control features.
+ReelWise uses Android's **AccessibilityService** solely to recognize supported scrolling activity for its counting and control features. It is **not** intended to collect unrelated content from the apps you use.
 
-The AccessibilityService is used for the app's core functionality and is not intended to collect unrelated content from the applications you use.
+**ReelWise does not require:**
+- Your Instagram, Facebook, or YouTube password
 
-ReelWise does **not** require your:
+**ReelWise's counting system is not intended to collect or upload:**
+- Screenshots or screen recordings
+- Video or audio files
+- Captions, comments, or direct messages
+- Passwords
+- General third-party app content
 
-* Instagram password
-* Facebook password
-* YouTube password
+Optional account features (sync, aggregate stats) use **Firebase Authentication** and cloud services. Advertising is served through **Google Mobile Ads (AdMob)**.
 
-The counting system is not intended to upload or collect:
-
-* Screenshots
-* Screen recordings
-* Video files
-* Audio recordings
-* Captions
-* Comments
-* Direct messages
-* Passwords
-* General third-party app content
-
-Optional account-related functionality may use **Firebase Authentication** and cloud services for features such as synchronization and aggregate statistics.
-
-For advertising, ReelWise uses **Google Mobile Ads (AdMob)**.
-
-For complete details, please refer to the app's Privacy Policy.
+📄 Full details are available in the [Privacy Policy](#-privacy-policy).
 
 ---
 
-# 🧩 How ReelWise Works
-
-At a high level, ReelWise works through the following flow:
+## 🧩 How ReelWise Works
 
 ```text
 Supported Social App
@@ -228,7 +194,6 @@ Count Scrolling Activity
         ├──────────────► Daily Limit
         │                    │
         │                    ├── Alert
-        │                    │
         │                    └── Block
         │
         ▼
@@ -245,345 +210,205 @@ Statistics & History
 
 ---
 
-# 📱 App Screenshots
+## 📱 App Screenshots
 
-## Home Dashboard
+<div align="center">
 
-<p align="center">
-  <img src="assets/screenshots/home.png" alt="ReelWise Home Dashboard" width="180">
-</p>
+| Home Dashboard | Statistics | Platform Stats | Daily Limits | Leaderboard |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="assets/screenshots/home.png" width="160"> | <img src="assets/screenshots/statistics.png" width="160"> | <img src="assets/screenshots/platform-stats.png" width="160"> | <img src="assets/screenshots/daily-limit.png" width="160"> | <img src="assets/screenshots/leaderboard.png" width="160"> |
+| Quick overview of activity, progress & limits | Explore trends via statistics & history | See usage distributed across platforms | Configure limits & response behavior | Aggregate rankings & position over time |
 
-The home dashboard provides a quick overview of your current scrolling activity, daily progress, and important limits.
-
----
-
-## 📊 Statistics
-
-<p align="center">
-  <img src="assets/screenshots/statistics.png" alt="ReelWise Statistics" width="180">
-</p>
-
-Explore your scrolling activity through statistics and historical data.
+</div>
 
 ---
 
-## 📱 Platform Statistics
+## 🛠️ Technology
 
-<p align="center">
-  <img src="assets/screenshots/platform-stats.png" alt="ReelWise Platform Statistics" width="180">
-</p>
-
-Understand how your scrolling activity is distributed across supported platforms.
-
----
-
-## 🎯 Daily Limits
-
-<p align="center">
-  <img src="assets/screenshots/daily-limit.png" alt="ReelWise Daily Limit" width="180">
-</p>
-
-Configure your preferred daily Reel/Short limit and choose how ReelWise should respond when the limit is reached.
-
----
-
-<!-- ## 🏆 Goals & Challenges
-
-<p align="center">
-  <img src="assets/screenshots/goals.png" alt="ReelWise Goals" width="280">
-</p>
-
-Set goals, complete challenges, and build consistent habits.
-
----
-
-## 🔥 Streaks
-
-<p align="center">
-  <img src="assets/screenshots/streaks.png" alt="ReelWise Streaks" width="280">
-</p>
-
-Track your consistency and maintain your progress through streaks.
-
---- -->
-
-## 🌎 Leaderboards
-
-<p align="center">
-  <img src="assets/screenshots/leaderboard.png" alt="ReelWise Leaderboard" width="180">
-</p>
-
-Explore aggregate rankings and follow your position over time where leaderboard features are available.
-
----
-
-# 🛠️ Technology
-
-ReelWise is built as a modern Android application using technologies and practices such as:
-
-| Technology                       | Purpose                          |
-| -------------------------------- | -------------------------------- |
-| **Kotlin**                       | Primary programming language     |
-| **Jetpack Compose**              | Modern declarative UI            |
-| **MVVM / Clean Architecture**    | Application architecture         |
-| **StateFlow / Flow**             | Reactive state and data streams  |
-| **Room**                         | Local database                   |
-| **DataStore**                    | Local preferences and settings   |
-| **Hilt**                         | Dependency injection             |
-| **Retrofit / OkHttp**            | Network communication            |
-| **Firebase Authentication**      | Optional account authentication  |
-| **Firebase Realtime Database**   | Cloud/aggregate data             |
-| **WorkManager**                  | Background tasks                 |
+| Technology | Purpose |
+|---|---|
+| **Kotlin** | Primary programming language |
+| **Jetpack Compose** | Modern declarative UI |
+| **MVVM / Clean Architecture** | Application architecture |
+| **StateFlow / Flow** | Reactive state and data streams |
+| **Room** | Local database |
+| **DataStore** | Local preferences and settings |
+| **Hilt** | Dependency injection |
+| **Retrofit / OkHttp** | Network communication |
+| **Firebase Authentication** | Optional account authentication |
+| **Firebase Realtime Database** | Cloud/aggregate data |
+| **WorkManager** | Background tasks |
 | **Android AccessibilityService** | Reel/Short detection and control |
-| **Google Mobile Ads / AdMob**    | In-app advertising               |
+| **Google Mobile Ads / AdMob** | In-app advertising |
 
 ---
 
-# 🏗️ Architecture
-
-ReelWise follows a modern Android architecture focused on separation of concerns and maintainability.
+## 🏗️ Architecture
 
 ```text
 ┌─────────────────────────────┐
-│       Jetpack Compose       │
-│            UI               │
+│     Jetpack Compose UI      │
 └──────────────┬──────────────┘
-               │
                ▼
 ┌─────────────────────────────┐
-│        ViewModel            │
-│     UI State / Events       │
+│   ViewModel (UI State /     │
+│         Events)             │
 └──────────────┬──────────────┘
-               │
                ▼
 ┌─────────────────────────────┐
-│       Use Cases /           │
-│      Domain Logic           │
+│  Use Cases / Domain Logic   │
 └──────────────┬──────────────┘
-               │
                ▼
 ┌─────────────────────────────┐
-│        Repository           │
-│      Data Abstraction       │
+│  Repository (Data Layer)    │
 └───────┬───────────┬─────────┘
-        │           │
         ▼           ▼
    Local Data    Remote Data
-   Room/DataStore Firebase/API
+  (Room/DataStore) (Firebase/API)
 ```
 
-This repository is intended as a **product showcase**, not as a public source-code distribution.
+> 📌 This repository serves as a **product showcase**. Application source code is not publicly distributed here.
 
 ---
 
-# ⚙️ Permissions & Accessibility
+## ⚙️ Permissions & Accessibility
 
-ReelWise requires Android Accessibility access for its core Reel/Short tracking and control functionality.
+ReelWise requires **Android Accessibility access** for its core tracking and control functionality.
 
-This permission allows ReelWise to recognize supported scrolling activity and perform the features the user explicitly enables.
+**Why is this required?** Android doesn't expose a public API that tells an app how many Reels or Shorts a user has scrolled through inside another app. ReelWise's AccessibilityService fills this gap by recognizing supported UI activity needed for counting.
 
-### Why is Accessibility access required?
-
-Android does not provide a standard public API that directly tells an app how many Reels or Shorts a user has scrolled through inside another application.
-
-Therefore, ReelWise uses Android's AccessibilityService to identify supported UI activity required for its tracking functionality.
-
-Users remain in control and can enable or disable Accessibility access through Android Settings.
+Users remain fully in control and can enable or disable Accessibility access anytime via Android Settings.
 
 ---
 
-# 📲 Supported Platforms
+## 📲 Supported Platforms
 
-ReelWise currently supports counting and tracking short-form video content across:
+| Platform | Content Type |
+|---|---|
+| **Instagram** | Reels |
+| **Facebook** | Reels |
+| **YouTube** | Shorts |
+| **TikTok** | Short-form Videos |
+| **Snapchat** | Spotlight |
 
-### Instagram
-**Instagram Reels**
-
-### Facebook
-**Facebook Reels**
-
-### YouTube
-**YouTube Shorts**
-
-### TikTok
-**TikTok Short-form Videos**
-
-### Snapchat
-**Snapchat Spotlight**
-
-> Third-party platform interfaces can change over time. Counting and detection behavior may therefore vary depending on the installed application version, Android version, and platform UI changes.
+> Third-party UIs change over time — detection accuracy may vary by app version, Android version, and platform updates.
 
 ---
 
-# 🎨 Product Design
+## 🎨 Product Design
 
-ReelWise follows a clean, modern digital-wellbeing visual direction.
+ReelWise follows a clean, modern digital-wellbeing visual language.
 
-### Primary Colors
+**Primary Palette**
 
-* **Primary Teal:** `#0A6C64`
-* **Dark Navy:** `#0F172A`
+| Color | Hex |
+|---|---|
+| 🟢 Primary Teal | `#0A6C64` |
+| 🔵 Dark Navy | `#0F172A` |
 
-The interface is designed around:
-
-* Clear information hierarchy
-* Minimal visual clutter
-* Easy-to-understand statistics
-* Fast access to daily limits
-* Modern Android UI patterns
-* Consistent cards and components
-* Accessible and readable typography
-
----
-
-# 🔒 Third-Party Services
-
-ReelWise may use selected third-party services to provide its functionality.
-
-### Firebase
-
-Used for optional authentication and cloud-related functionality.
-
-### Google Mobile Ads / AdMob
-
-Used to display advertisements within appropriate areas of the application.
-
-### Google Play Services
-
-Used where required by supported Android and Google services.
-
-ReelWise is independently developed and is **not affiliated with, sponsored by, endorsed by, or officially connected to Instagram, Facebook, YouTube, Meta, or Google**.
-
-All third-party names and trademarks belong to their respective owners.
+Design principles:
+- Clear information hierarchy
+- Minimal visual clutter
+- Easy-to-read statistics
+- Fast access to daily limits
+- Modern Android UI patterns
+- Consistent cards and components
+- Accessible, readable typography
 
 ---
 
-# 📥 Get ReelWise
+## 🔒 Third-Party Services
 
-ReelWise is available on Google Play.
+| Service | Purpose |
+|---|---|
+| **Firebase** | Optional authentication and cloud functionality |
+| **Google Mobile Ads / AdMob** | In-app advertisements |
+| **Google Play Services** | Required Android/Google service integrations |
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.dvexo.reelguard">
-    <img src="https://img.shields.io/badge/Download%20on-Google%20Play-0A6C64?style=for-the-badge&logo=google-play&logoColor=white" alt="Download ReelWise">
-  </a>
-</p>
-
-**Google Play:**
-`https://play.google.com/store/apps/details?id=com.dvexo.reelguard`
+> ReelWise is independently developed and is **not affiliated with, sponsored by, endorsed by, or officially connected to** Instagram, Facebook, YouTube, Meta, or Google. All third-party names and trademarks belong to their respective owners.
 
 ---
 
-# 📸 Project Showcase
+## 📥 Get ReelWise
 
-This repository is maintained as a **public product showcase for ReelWise**.
+<div align="center">
 
-The purpose of this repository is to allow visitors, users, developers, potential clients, and other interested people to learn about:
+<a href="https://play.google.com/store/apps/details?id=com.dvexo.reelguard">
+  <img src="https://img.shields.io/badge/Download%20on-Google%20Play-0A6C64?style=for-the-badge&logo=google-play&logoColor=white" alt="Download ReelWise">
+</a>
 
-* What ReelWise does
-* Why it was built
-* Supported platforms
-* Core features
-* Application architecture
-* Technology stack
-* Privacy approach
-* User experience
-* Screenshots and product design
-* Google Play availability
+**`https://play.google.com/store/apps/details?id=com.dvexo.reelguard`**
 
-> **The application source code is not publicly distributed in this repository.**
+</div>
 
 ---
 
-# 🗺️ Product Vision
+## 🗺️ Product Vision
 
 ReelWise started with a simple question:
 
 > **How many Reels and Shorts do we actually scroll through every day?**
 
-Traditional screen-time measurements tell you how long an application was open, but that does not always explain the actual scrolling behavior.
-
-ReelWise focuses on the short-form content itself.
-
-By combining:
+Traditional screen-time metrics tell you how long an app was open — but not what actually happened during that time. ReelWise focuses on the short-form content itself, combining:
 
 **Tracking → Limits → Alerts → Blocking → Statistics → Goals → Streaks → Challenges**
 
-ReelWise aims to help users become more aware of their short-form scrolling and make more intentional decisions about how they spend their attention.
+...to help users become more aware of their scrolling and make more intentional decisions about where their attention goes.
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
-ReelWise is designed to evolve over time.
+- Additional supported short-form platforms
+- More detailed analytics
+- More customizable goals
+- Additional challenge types
+- Expanded ranking features
+- Improved detection reliability
+- Additional digital-wellbeing tools
+- More personalization options
 
-Potential future improvements may include:
-
-* Additional supported short-form platforms
-* More detailed analytics
-* More customizable goals
-* Additional challenge types
-* Expanded ranking features
-* Improved detection reliability
-* Additional digital-wellbeing tools
-* More personalization options
-
-Feature availability may change as the application evolves.
+> Feature availability may change as the application evolves.
 
 ---
 
-# 📄 Privacy Policy
+## 📄 Privacy Policy
 
-For information about data handling, permissions, third-party services, retention, and deletion, please refer to the official ReelWise Privacy Policy.
+For details on data handling, permissions, third-party services, retention, and deletion, please see the official ReelWise Privacy Policy:
 
-**Privacy Policy:**
-[`https://abdullahalnuman-dev.github.io/reel-wise`](https://abdullahalnuman-dev.github.io/reel-wise)
-
----
-
-# 💬 Contact & Support
-
-Have a question, found a problem, or have a feature suggestion?
-
-Feel free to get in touch.
-
-### 💬 WhatsApp
-
-[+880 1754-155296](https://wa.me/+8801754155296)
-
-### 📧 Email
-
-**abdullahalnumanb@gmail.com**
-
-### 🌐 Google Play
-
-**[App Download link](https://play.google.com/store/apps/details?id=com.dvexo.reelguard)**
+🔗 **[abdullahalnuman-dev.github.io/reel-wise](https://abdullahalnuman-dev.github.io/reel-wise)**
 
 ---
 
-# ⭐ Support ReelWise
+## 💬 Contact & Support
 
-If ReelWise helps you become more aware of your scrolling habits, consider supporting the project by:
+Have a question, found a bug, or want to suggest a feature?
 
-* ⭐ Giving the project a star on GitHub
-* 📱 Trying the app on Google Play
-* 💬 Sharing your feedback
-* 🐛 Reporting issues
-* 💡 Suggesting useful features
-
-Your feedback can help make ReelWise better.
+| Channel | Contact |
+|---|---|
+| 💬 WhatsApp | [+880 1754-155296](https://wa.me/+8801754155296) |
+| 📧 Email | [abdullahalnumanb@gmail.com](mailto:abdullahalnumanb@gmail.com) |
+| 🌐 Google Play | [Download ReelWise](https://play.google.com/store/apps/details?id=com.dvexo.reelguard) |
 
 ---
 
-<p align="center">
+## ⭐ Support ReelWise
+
+If ReelWise helps you become more aware of your scrolling habits, consider:
+
+- ⭐ Starring the project on GitHub
+- 📱 Trying the app on Google Play
+- 💬 Sharing your feedback
+- 🐛 Reporting issues
+- 💡 Suggesting new features
+
+<div align="center">
 
 ### ReelWise: Reels Counter
-
 **Track. Limit. Take Control.**
 
-Built with ❤️ for a more intentional digital life.
+*Built with ❤️ for a more intentional digital life.*
 
-</p>
+© 2026 ReelWise. All rights reserved.
 
-<p align="center">
-  © 2026 ReelWise. All rights reserved.
-</p>
+</div>
