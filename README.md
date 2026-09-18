@@ -546,9 +546,9 @@ Have a question, found a problem, or have a feature suggestion?
 
 Feel free to get in touch.
 
-### 📱 Contact Number
+### 💬 WhatsApp
 
-**+8801754155296**
+[+880 1754-155296](https://wa.me/+8801754155296)
 
 ### 📧 Email
 
@@ -556,7 +556,7 @@ Feel free to get in touch.
 
 ### 🌐 Google Play
 
-**[YOUR_PLAY_STORE_URL](https://play.google.com/store/apps/details?id=com.dvexo.reelguard)**
+**[App Download link](https://play.google.com/store/apps/details?id=com.dvexo.reelguard)**
 
 ---
 
