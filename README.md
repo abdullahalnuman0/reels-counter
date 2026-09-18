@@ -250,7 +250,7 @@ Statistics & History
 ## Home Dashboard
 
 <p align="center">
-  <img src="assets/screenshots/home.png" alt="ReelWise Home Dashboard" width="200">
+  <img src="assets/screenshots/home.png" alt="ReelWise Home Dashboard" width="180">
 </p>
 
 The home dashboard provides a quick overview of your current scrolling activity, daily progress, and important limits.
@@ -260,7 +260,7 @@ The home dashboard provides a quick overview of your current scrolling activity,
 ## 📊 Statistics
 
 <p align="center">
-  <img src="assets/screenshots/statistics.png" alt="ReelWise Statistics" width="280">
+  <img src="assets/screenshots/statistics.png" alt="ReelWise Statistics" width="180">
 </p>
 
 Explore your scrolling activity through statistics and historical data.
@@ -270,7 +270,7 @@ Explore your scrolling activity through statistics and historical data.
 ## 📱 Platform Statistics
 
 <p align="center">
-  <img src="assets/screenshots/platform-stats.png" alt="ReelWise Platform Statistics" width="280">
+  <img src="assets/screenshots/platform-stats.png" alt="ReelWise Platform Statistics" width="180">
 </p>
 
 Understand how your scrolling activity is distributed across supported platforms.
@@ -280,7 +280,7 @@ Understand how your scrolling activity is distributed across supported platforms
 ## 🎯 Daily Limits
 
 <p align="center">
-  <img src="assets/screenshots/daily-limit.png" alt="ReelWise Daily Limit" width="280">
+  <img src="assets/screenshots/daily-limit.png" alt="ReelWise Daily Limit" width="180">
 </p>
 
 Configure your preferred daily Reel/Short limit and choose how ReelWise should respond when the limit is reached.
@@ -310,7 +310,7 @@ Track your consistency and maintain your progress through streaks.
 ## 🌎 Leaderboards
 
 <p align="center">
-  <img src="assets/screenshots/leaderboard.png" alt="ReelWise Leaderboard" width="280">
+  <img src="assets/screenshots/leaderboard.png" alt="ReelWise Leaderboard" width="180">
 </p>
 
 Explore aggregate rankings and follow your position over time where leaderboard features are available.
